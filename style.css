@@ -1,0 +1,12 @@
+#mTextBox {
+    padding:10px;
+    margin:100px;
+    border:20px;
+    background-color:darkgrey;
+    color:white;
+}
+
+#columns3 {
+    column-count:3; 
+    background-color:#9A8C98
+}
